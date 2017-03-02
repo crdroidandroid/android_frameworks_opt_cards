@@ -24,7 +24,7 @@ LOCAL_JAVA_LIBRARIES := \
 
 LOCAL_MODULE := android-opt-cards
 
-LOCAL_SDK_VERSION := 21
+LOCAL_SDK_VERSION := 25
 
 LOCAL_SRC_FILES := \
      $(call all-java-files-under, src) \
